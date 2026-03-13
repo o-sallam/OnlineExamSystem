@@ -1,9 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Diagnostics;
-using Microsoft.Build.Framework;
-using Microsoft.VisualBasic;
 using OnlineExamSystem.Core.Entities;
 using OnlineExamSystem.Core.Identity;
 using OnlineExamSystem.Core.Interfaces;

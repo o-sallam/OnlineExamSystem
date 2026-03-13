@@ -1,0 +1,108 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.ps1
+*.ps1xml
+*.psd1
+*.psm1
+
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet packages
+*.nupkg
+packages/
+!.packages/repository.config
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore VS Code files
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Ignore User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Mono auto generated files
+mono_crash.*
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore logs
+*.log
+
+# Ignore local configuration files
+appsettings.local.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Ignore Entity Framework migrations (optional - uncomment if you want to ignore migrations)
+# Migrations/
+
+# Ignore published applications
+publish/
+
+# Ignore test coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Ignore Node.js (if using npm/yarn)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore TypeScript
+*.tsbuildinfo
+
+# Ignore Azure
+.azure/
+
+# Ignore backup files
+*.bak
+*.backup
+*.tmp
+
+# Ignore SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Ignore IIS Express
+.vs/config/applicationhost.config
+
+# Ignore Docker
+.dockerignore

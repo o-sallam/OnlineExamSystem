@@ -1,9 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using OnlineExamSystem.Core.Identity;
 using OnlineExamSystem.Web.ViewModels;
-using System.Threading.Tasks;
 
 namespace OnlineExamSystem.Web.Controllers
 {
